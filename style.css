@@ -11,25 +11,29 @@ body {
     text-decoration: none;
     background-color: rgb(156, 240, 252);
     border-radius: 10px;
-    padding: 15px 30px;
+    padding: 9px 30px;
     font-family: 'Charis SIL', serif;
     font-weight: 600;
 }
 
 .hab1{
-
+    font-size: 20px;
 }
  .hab2{
-
+    font-size: 25px;
  }
 
  .hab3{
-
+    font-size: 30px;
  }
 
  .hab4{
-
+    font-size: 35px;
  }
  .hab5{
-     
+    font-size: 40px;
+ }
+ 
+ #name{
+   font-size: 30px;
  }
